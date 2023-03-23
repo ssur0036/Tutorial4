@@ -1,3 +1,3 @@
-# Im creating a conflict
+# Im creating a conflict in remote
 In this tutorial we are learning to create and merge branches as well as including the untracked files into our local repo”.
 This line is from feature branch.
